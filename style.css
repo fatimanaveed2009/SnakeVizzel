@@ -5,12 +5,12 @@
 }
 
 .startup{
-       background:url("../img/bg.jpg") ;
+       background:url("bg.jpg") ;
        font-family: "New tegomin" , serif;
 }
 
 .body{
-    background: url("../img/bg.jpg"); 
+    background: url("bg.jpg"); 
     min-height: 100vh;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
